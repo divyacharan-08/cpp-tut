@@ -18,6 +18,8 @@ int main(){
     cout<<"\nThe value of e is "<<e;
     char d='A';//char is used to store a single character for example 'A' 'a' '@' '$' ';' '1'
     cout<<"\nThe character is "<<d;
+    bool is_true= true;//it shows whether it is true or false
+    cout<<"What he said is "<<is_true; //if it is true it shows 1. If it is false it shows 0
 
 
     return 0;
